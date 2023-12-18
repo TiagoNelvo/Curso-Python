@@ -35,5 +35,5 @@ pH = float(input('Qual o pH do solo durante a última medição?'))
 print('O pH medido foi ', pH)
 
 #str (para transformtar em texto)
-nome = str(input('Qual o seu nome?'))
+nome = str(('Qual o seu nome?'))
 print('Seu nome é ', nome)
