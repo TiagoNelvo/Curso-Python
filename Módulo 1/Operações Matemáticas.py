@@ -14,3 +14,6 @@ print('A Divisão é', a / b)
 
 #Multiplicação
 print('A Multiplicação é', a * b)
+
+#Resto da Divisão
+print('O resto da Divisão é', 10 % 3)
