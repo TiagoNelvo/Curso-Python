@@ -57,7 +57,7 @@ print(f)
 print(len(f))
 
 #Concatenação
-n1 = 14
+n1 = 13
 n2 = 16
 print('Dividindo {n1} por {n2} o resultado é {n1/n2}')
 #inserindo o f(formatação), passa a exibir os valores ao invés das variaveis
