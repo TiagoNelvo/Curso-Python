@@ -8,10 +8,7 @@ print(media_notas)
 #Código
 if media_notas >= 0.0 and media_notas <= 4.0:
     print('Reprovado')
-else:
-    if media_notas >= 4.1 and media_notas <= 6.0:
-        
-    else:
-        if media_notas > 6:
+elif media_notas >= 4.1 and media_notas <= 6.0:
+    elif media_notas > 6:
             print('aprovado')
        
