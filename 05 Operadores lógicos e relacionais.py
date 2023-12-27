@@ -28,3 +28,12 @@ not b
 #Operadores Relacionais
 
 5 > 3
+
+5 >= 5
+
+5 ==3
+# Usar o '==' para igualdade
+
+5 !=3
+# Usar o '!=' para diferente
+
