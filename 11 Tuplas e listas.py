@@ -16,7 +16,7 @@ print('---')
 
 # Listas
 l1 = ['Homo Sapiens', 'Canis familiaris', 'Felis Catus']
-l2 = [' Xenopus laevis', 'Ailupoda melanoleuca']
+l2 = ['Xenopus laevis', 'Ailupoda melanoleuca']
 
 l3 = l1 + l2
 print(l3)
@@ -37,4 +37,8 @@ l1.remove('Felis Catus')
 print(l1)
 print('---')
 
+del(l1)
+print(l1)
 
+for item in l2_2:
+    print(item)
