@@ -27,3 +27,5 @@ coleta.items()
 for especie, num_especimes in coleta.items():
     print(f'Especie: {especie}, número de especimes coletados: {num_especimes}')
 
+#Conjuntos(set)
+ 
