@@ -24,8 +24,27 @@ print(coleta)
 
 coleta.items()
 
+print('---')
+
 for especie, num_especimes in coleta.items():
     print(f'Especie: {especie}, número de especimes coletados: {num_especimes}')
 
+print('---')
+
 #Conjuntos(set)
+
+biomoleculas = ('proteína', 'acidos nucleicos', 'carboidrato', 'lipideo', 'acidos nucleicos', 'carboidrato', 'carboidrato','carboidrato')
  
+print(biomoleculas)
+
+print(set(biomoleculas))
+print('---')
+
+c1 = {1,2,3,4,5}
+c2 = {3,4,5,6,7}
+c3 = c1.intersection(c2)
+
+print(c3)
+
+c1.difference(c2)
+c2.difference(c1)
