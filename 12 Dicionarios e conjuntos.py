@@ -1,0 +1,2 @@
+#Variaves
+coleta = {}
